@@ -1,11 +1,4 @@
-'''
-SUMMARY:  prepare data
-AUTHOR:   Qiuqiang Kong
-Created:  2016.05.11
-AUTHOR:   YONG XU
-Modified: 2016.09.08 CNN for multi-channel audio
---------------------------------------
-'''
+ 
 import sys
 sys.path.append('/user/HS103/yx0001/Downloads/Hat')
 from Hat.preprocessing import mat_2d_to_3d, reshape_3d_to_4d, mat_concate_multiinmaps6in
