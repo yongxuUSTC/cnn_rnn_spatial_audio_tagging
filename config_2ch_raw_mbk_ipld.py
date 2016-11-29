@@ -1,10 +1,3 @@
-'''
-SUMMARY:  config file
-AUTHOR:   Qiuqiang Kong
-Created:  2016.06.23
-Modified: YONG XU, 2016.08.09 for multi-channel
---------------------------------------
-'''
 
 # development
 dev_root = '/vol/vssp/datasets/audio/dcase2016/chime_home'
