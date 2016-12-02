@@ -1,6 +1,6 @@
  
 import sys
-sys.path.append('/user/HS103/yx0001/Downloads/Hat')
+sys.path.append('../Hat')
 from Hat.preprocessing import mat_2d_to_3d, reshape_3d_to_4d, mat_concate_multiinmaps6in
 import numpy as np
 from scipy import signal
