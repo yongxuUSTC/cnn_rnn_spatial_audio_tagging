@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/user/HS103/yx0001/Downloads/Hat')
+sys.path.append('../Hat')
 import pickle
 import numpy as np
 np.random.seed(1515)
