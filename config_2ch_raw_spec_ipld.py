@@ -1,11 +1,11 @@
 
 
 # development
-dev_root = '/vol/vssp/datasets/audio/dcase2016/chime_home'
+dev_root = '../chime_home'
 dev_wav_fd = dev_root + '/chunks_16k_2ch'
 
 # temporary data folder
-scrap_fd = "/vol/vssp/msos/yx/chime_home/DCASE2016_task4_scrap_2ch_spec_ipd_ild_overlap"
+scrap_fd = "../chime_home/DCASE2016_task4_scrap_2ch_spec_ipd_ild_overlap"
 dev_fe_mel_fd_left = scrap_fd + '/Fe/Mel_l'
 dev_fe_mel_fd_right = scrap_fd + '/Fe/Mel_r'
 dev_fe_mel_fd_mean = scrap_fd + '/Fe/Mel_m'
